@@ -9,4 +9,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SahilS1903/LeetCode/tree/master/0066-plus-one) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SahilS1903/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
