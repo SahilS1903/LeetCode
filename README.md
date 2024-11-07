@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SahilS1903/LeetCode/tree/master/0066-plus-one) |
 | [1635-number-of-good-pairs](https://github.com/SahilS1903/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SahilS1903/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SahilS1903/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/SahilS1903/LeetCode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SahilS1903/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SahilS1903/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SahilS1903/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
