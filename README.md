@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SahilS1903/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/SahilS1903/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SahilS1903/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/SahilS1903/LeetCode/tree/master/0070-climbing-stairs) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SahilS1903/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/SahilS1903/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/SahilS1903/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SahilS1903/LeetCode/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SahilS1903/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SahilS1903/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
