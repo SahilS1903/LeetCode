@@ -1,11 +1,7 @@
 
-var addDigits = function(n) {
-    while(n>9){
-    let arr=n.toString().split("")
-    n=0
-    arr.map((el)=>{
-        n+=parseInt(el)
-        })
-    }
-    return n
+var addDigits = function(num) {
+    if(num!=0 && num%9==0)
+    return 9;
+    else
+    return num%9;
 };
