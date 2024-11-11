@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SahilS1903/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/SahilS1903/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SahilS1903/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/SahilS1903/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SahilS1903/LeetCode/tree/master/0070-climbing-stairs) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SahilS1903/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/SahilS1903/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SahilS1903/LeetCode/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SahilS1903/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
