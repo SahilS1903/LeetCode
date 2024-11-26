@@ -130,5 +130,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/SahilS1903/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/SahilS1903/LeetCode/tree/master/0182-duplicate-emails) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SahilS1903/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
