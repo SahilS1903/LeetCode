@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SahilS1903/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SahilS1903/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SahilS1903/LeetCode/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/SahilS1903/LeetCode/tree/master/0441-arranging-coins) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SahilS1903/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/SahilS1903/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/SahilS1903/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/SahilS1903/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SahilS1903/LeetCode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/SahilS1903/LeetCode/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
 | ------- |
