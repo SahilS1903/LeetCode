@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/SahilS1903/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/SahilS1903/LeetCode/tree/master/0268-missing-number) |
+| [1241-decompress-run-length-encoded-list](https://github.com/SahilS1903/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1635-number-of-good-pairs](https://github.com/SahilS1903/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SahilS1903/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SahilS1903/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
