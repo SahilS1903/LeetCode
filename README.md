@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/SahilS1903/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/SahilS1903/LeetCode/tree/master/0268-missing-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/SahilS1903/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/SahilS1903/LeetCode/tree/master/1044-find-common-characters) |
 | [1241-decompress-run-length-encoded-list](https://github.com/SahilS1903/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1635-number-of-good-pairs](https://github.com/SahilS1903/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/SahilS1903/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SahilS1903/LeetCode/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/SahilS1903/LeetCode/tree/master/0441-arranging-coins) |
+| [1031-add-to-array-form-of-integer](https://github.com/SahilS1903/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SahilS1903/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/SahilS1903/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/SahilS1903/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
