@@ -12,4 +12,4 @@ class Solution(object):
             for j in range(i+1,len(nums)):
                 if b == nums[j]:
                     return [i,j]
-        
+        return []
