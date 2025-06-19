@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SahilS1903/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SahilS1903/LeetCode/tree/master/0326-power-of-three) |
 ## Brainteaser
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/SahilS1903/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/SahilS1903/LeetCode/tree/master/0182-duplicate-emails) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SahilS1903/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
