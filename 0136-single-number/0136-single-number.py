@@ -7,7 +7,7 @@ class Solution(object):
         result = 0
         for num in nums:
             result ^= num
-            print(result)
+            
         return result
 
 
