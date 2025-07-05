@@ -9,6 +9,6 @@ class Solution(object):
         """
         for i in range(n):
             nums1[m + i] = nums2[i]
-            print("After adding:", nums1)  
+             
 
         nums1.sort()
