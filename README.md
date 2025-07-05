@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SahilS1903/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/SahilS1903/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/SahilS1903/LeetCode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/SahilS1903/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SahilS1903/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SahilS1903/LeetCode/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/SahilS1903/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/SahilS1903/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SahilS1903/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/SahilS1903/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SahilS1903/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SahilS1903/LeetCode/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SahilS1903/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
