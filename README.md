@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SahilS1903/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/SahilS1903/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SahilS1903/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/SahilS1903/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SahilS1903/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SahilS1903/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/SahilS1903/LeetCode/tree/master/0067-add-binary) |
 | [1044-find-common-characters](https://github.com/SahilS1903/LeetCode/tree/master/1044-find-common-characters) |
 ## Dynamic Programming
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0206-reverse-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SahilS1903/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
