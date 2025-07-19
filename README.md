@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/SahilS1903/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SahilS1903/LeetCode/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/SahilS1903/LeetCode/tree/master/0441-arranging-coins) |
+| [1013-fibonacci-number](https://github.com/SahilS1903/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/SahilS1903/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SahilS1903/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/SahilS1903/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -121,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SahilS1903/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SahilS1903/LeetCode/tree/master/0118-pascals-triangle) |
+| [1013-fibonacci-number](https://github.com/SahilS1903/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SahilS1903/LeetCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/SahilS1903/LeetCode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SahilS1903/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SahilS1903/LeetCode/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/SahilS1903/LeetCode/tree/master/1013-fibonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
