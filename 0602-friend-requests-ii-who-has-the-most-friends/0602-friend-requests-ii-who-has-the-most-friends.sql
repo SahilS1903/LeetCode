@@ -6,4 +6,4 @@ select id , count(id) as num from
     
 ) new
 group by id
-order by count(id) desc limit 1
+order by num desc limit 1
