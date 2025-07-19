@@ -4,21 +4,18 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
-        if x>=0:
-            reversed_int=int(str(x)[::-1]) 
+
+        rev=0
+        sign=-1 if x<0 else 1
+        x=abs(x)
+        while x>0:
+            rem=x%10
+            x=x//10
+            rev=rev*10+rem
+        print(rev)
+        rev=rev*sign
+        if rev>-2**31 and rev<((2**31)-1):
+            return rev
         else:
-            reversed_int=-int(str(-x)[::-1])
-        
-        if -2**31 <= reversed_int <= (2**31) - 1:
-            return reversed_int
-        else :
             return 0
-        
-        
-        
-       
-
-        
-
-
         
