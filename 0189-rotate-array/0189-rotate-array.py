@@ -5,6 +5,9 @@ class Solution(object):
         :type k: int
         :rtype: None Do not return anything, modify nums in-place instead.
         """
+
+
+        # brute force solution
         # if k>len(nums):
         #     k%=len(nums)
 
@@ -16,6 +19,8 @@ class Solution(object):
         #         nums[j]=nums[j-1]
         #     nums[0]=temp
 
+
+        # optimal solution
         if k>len(nums):
             k%=len(nums)
         def reverse(arr,start,end):
