@@ -27,6 +27,6 @@ class Solution(object):
                 end-=1
             return arr
 
-        print(reverse(nums,len(nums)-k,len(nums)-1))
-        print(reverse(nums,0,len(nums)-k-1))
-        print(reverse(nums,0,len(nums)-1))
+        reverse(nums,len(nums)-k,len(nums)-1)
+        reverse(nums,0,len(nums)-k-1)
+        reverse(nums,0,len(nums)-1)
