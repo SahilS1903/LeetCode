@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SahilS1903/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SahilS1903/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/SahilS1903/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SahilS1903/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SahilS1903/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SahilS1903/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SahilS1903/LeetCode/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SahilS1903/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/SahilS1903/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SahilS1903/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SahilS1903/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SahilS1903/LeetCode/tree/master/0268-missing-number) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SahilS1903/LeetCode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/SahilS1903/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Simulation
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/SahilS1903/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SahilS1903/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SahilS1903/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SahilS1903/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SahilS1903/LeetCode/tree/master/0268-missing-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SahilS1903/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -229,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SahilS1903/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SahilS1903/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
