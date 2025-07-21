@@ -15,7 +15,7 @@ class Solution(object):
         while temp:
             if temp in dict:
                 return temp
-            dict[temp]=temp
+            dict[temp]=1
             temp=temp.next
         return None
         
