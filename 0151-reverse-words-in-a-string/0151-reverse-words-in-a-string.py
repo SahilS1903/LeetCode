@@ -4,8 +4,14 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        words=s.strip().split()
-        reversed_words=words[::-1]
-        return ' '.join(reversed_words)
-        
-            
+        rev=''
+        s=s.strip()
+        i=0
+        while i<len(s):
+            if s[i]==" ":
+                rev=' '+s[:i]+rev
+                s=s[i+1:].strip()
+                i=0
+            i+=1
+        rev=s+rev
+        return rev
