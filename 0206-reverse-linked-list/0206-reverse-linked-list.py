@@ -9,16 +9,12 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        l=[]
-        t=head
-        while t:
-            l.append(t.val)
-            t=t.next
+        temp=head
+        prev=None
+        while temp:
+            front=temp.next
+            temp.next=prev
+            prev=temp
+            temp=front
+        return prev
         
-        l=l[::-1]
-        
-        t=head
-        for i in range(len(l)):
-            t.val=l[i]
-            t=t.next
-        return head
