@@ -8,7 +8,7 @@ class Solution(object):
         if n<=1:
             return s
         result=s[0]
-        for i in range(1,n+1):
+        for i in range(1,n):
             l,r=i,i
             while l>=0 and r<n and s[l]==s[r]:
                 palindrome=s[l:r+1]
