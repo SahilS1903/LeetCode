@@ -10,13 +10,22 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
-        slow=head
-        fast=head
-        while fast and fast.next!=None :
-            fast=fast.next.next
-            slow=slow.next
-            if fast==slow:
+        # slow=head
+        # fast=head
+        # while fast and fast.next!=None :
+        #     fast=fast.next.next
+        #     slow=slow.next
+        #     if fast==slow:
+        #         return True
+        # return False
+
+        dict={}
+        temp=head
+        while temp:
+            if temp in dict:
                 return True
+            dict[temp]=1
+            temp=temp.next
         return False
         
         
