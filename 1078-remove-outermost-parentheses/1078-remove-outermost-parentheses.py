@@ -1,22 +1,12 @@
-class Solution(object):
-    def removeOuterParentheses(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-        result = []
-        opened = 0
-
-        for c in s:
-            
-            if c == '(':
-                if opened > 0:
-                    result.append(c)
-                opened += 1
-            elif c == ')':
-                opened -= 1
-                if opened > 0:
-                    result.append(c)
-
-        return ''.join(result)
-        
+class Solution:
+    def removeOuterParentheses(self, s: str) -> str:
+        count = 0
+        ans=''
+        for i in range(len(s)):
+            if s[i] == '(':
+                count+=1
+            else:
+                count-=1
+            if count>1 or (count==1 and s[i]==')' ):
+                ans+=s[i]
+        return ans
