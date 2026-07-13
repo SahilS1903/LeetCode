@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/SahilS1903/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SahilS1903/LeetCode/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/SahilS1903/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1806-count-of-matches-in-tournament](https://github.com/SahilS1903/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SahilS1903/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Backtracking
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SahilS1903/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SahilS1903/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/SahilS1903/LeetCode/tree/master/0812-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/SahilS1903/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/SahilS1903/LeetCode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/SahilS1903/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SahilS1903/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SahilS1903/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SahilS1903/LeetCode/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/SahilS1903/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SahilS1903/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Recursion
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/SahilS1903/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/SahilS1903/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SahilS1903/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
