@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SahilS1903/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SahilS1903/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/SahilS1903/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/SahilS1903/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1031-add-to-array-form-of-integer](https://github.com/SahilS1903/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/SahilS1903/LeetCode/tree/master/1044-find-common-characters) |
 | [1241-decompress-run-length-encoded-list](https://github.com/SahilS1903/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/SahilS1903/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2032-largest-odd-number-in-string](https://github.com/SahilS1903/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SahilS1903/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SahilS1903/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SahilS1903/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/SahilS1903/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/SahilS1903/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SahilS1903/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Number Theory
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SahilS1903/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SahilS1903/LeetCode/tree/master/0283-move-zeroes) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/SahilS1903/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/SahilS1903/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SahilS1903/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/SahilS1903/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/SahilS1903/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/SahilS1903/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SahilS1903/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -327,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SahilS1903/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/SahilS1903/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
