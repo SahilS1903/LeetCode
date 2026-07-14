@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SahilS1903/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SahilS1903/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SahilS1903/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/SahilS1903/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/SahilS1903/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SahilS1903/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SahilS1903/LeetCode/tree/master/0189-rotate-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/SahilS1903/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SahilS1903/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SahilS1903/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/SahilS1903/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SahilS1903/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/SahilS1903/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/SahilS1903/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/SahilS1903/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SahilS1903/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/SahilS1903/LeetCode/tree/master/0844-backspace-string-compare) |
