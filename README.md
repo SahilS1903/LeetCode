@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SahilS1903/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SahilS1903/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0904-fruit-into-baskets](https://github.com/SahilS1903/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/SahilS1903/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/SahilS1903/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/SahilS1903/LeetCode/tree/master/1044-find-common-characters) |
 | [1241-decompress-run-length-encoded-list](https://github.com/SahilS1903/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SahilS1903/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SahilS1903/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/SahilS1903/LeetCode/tree/master/0441-arranging-coins) |
+| [1004-max-consecutive-ones-iii](https://github.com/SahilS1903/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SahilS1903/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SahilS1903/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/SahilS1903/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SahilS1903/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SahilS1903/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/SahilS1903/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/SahilS1903/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
