@@ -12,10 +12,10 @@ class Solution(object):
         if (sign==-1):
             x*=-1
         print(x) 
-        output="0"
+        output=0
         while(x>0):
             rem=x%10
-            output+=str(rem)
+            output=output*10+rem
             x/=10
-        return sign*int(output) if(-2**31<=int(output)<=2**31-1) else 0
+        return sign*output if(-2**31<=output<=2**31-1) else 0
         
