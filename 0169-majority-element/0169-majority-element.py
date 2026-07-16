@@ -1,12 +1,18 @@
-class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
-        cnt=0
-        for i in range(len(nums)):
-            if cnt==0:
-                el=nums[i]
-                cnt+=1
-            elif nums[i]==el:
-                cnt+=1
+class Solution(object):
+    def majorityElement(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        count=0
+        for num in nums:
+            if count==0:
+                el=num
+                count+=1
             else:
-                cnt-=1
+                if num==el:
+                    count+=1
+                else:
+                    count-=1
         return el
+        
