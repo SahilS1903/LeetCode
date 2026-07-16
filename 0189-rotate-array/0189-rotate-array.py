@@ -1,4 +1,11 @@
 class Solution(object):
+    def rotatearr(self,nums,i,j):
+        while(i<j):
+            temp=nums[i]
+            nums[i]=nums[j]
+            nums[j]=temp
+            i+=1
+            j-=1
     def rotate(self, nums, k):
         """
         :type nums: List[int]
@@ -6,32 +13,10 @@ class Solution(object):
         :rtype: None Do not return anything, modify nums in-place instead.
         """
 
-
-        # brute force solution
-        # if k>len(nums):
-        #     k%=len(nums)
-
-        # for i in range(k):
-        #     temp=nums[-1]
-            
-        #     for j in range(len(nums)-1,0,-1):
-                
-        #         nums[j]=nums[j-1]
-        #     nums[0]=temp
-
-
-        # optimal solution
-        if k>len(nums):
-            k%=len(nums)
-        def reverse(arr,start,end):
-            while start<end:
-                temp=arr[start]
-                arr[start]=arr[end]
-                arr[end]=temp
-                start+=1
-                end-=1
-            return arr
-
-        reverse(nums,len(nums)-k,len(nums)-1)
-        reverse(nums,0,len(nums)-k-1)
-        reverse(nums,0,len(nums)-1)
+        n=len(nums)
+        k=k%n
+        self.rotatearr(nums,0,n-k-1)
+        self.rotatearr(nums,n-k,n-1)
+        self.rotatearr(nums,0,n-1)
+    
+        
