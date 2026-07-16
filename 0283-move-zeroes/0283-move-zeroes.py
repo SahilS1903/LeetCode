@@ -4,17 +4,23 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        j=-1
-        for i in range(len(nums)):
-            if nums[i]==0:
-                j=i
-                break
-        if j==-1:
-            return
-        for k in range(j+1,len(nums)):
-            print(nums[j],nums[k])
-            if nums[k]!=0:
-                nums[j]=nums[k]
-                nums[k]=0
+        i=0
+        j=0
+        while j<len(nums):
+            if nums[j]==0:
+                j+=1
+            elif nums[i]==0:
+                nums[i]=nums[j]
+                nums[j]=0
+                i+=1
+                j+=1
+            else:
+                i+=1
                 j+=1
 
+            
+           
+                
+
+
+        
