@@ -4,13 +4,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        maximum=0
-        count=0
-        for i in range(len(nums)):
-            if nums[i]==1:
-                count+=1
-                maximum=max(maximum,count)
+        i=0
+        j=0
+        output=0
+        while(j<len(nums)):
+            if nums[j]==1:
+                output=max(output,j-i+1)
+                j+=1
             else:
-                count=0
-
-        return maximum
+                j+=1
+                i=j
+        return output
+            
+        
