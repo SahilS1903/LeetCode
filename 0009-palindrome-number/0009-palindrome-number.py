@@ -4,22 +4,18 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        def rev(x):
-            rev=0
-            
-            while x!=0:
-                rem=x%10
-                x=x//10
-                rev=rev*10+rem
-            print(rev)
-            
-            if rev>-2**31 and rev<((2**31)-1):
-                return rev
-            else:
-                return 0
-        if x<0:
-            return False 
-        if x==rev(x):
+        if(x<0):return False
+        else:
+            x=str(x)
+            i=0
+            j=len(x)-1
+            print(i,j)
+            while(i<j):
+                if x[i]==x[j]:
+                    i+=1
+                    j-=1
+                    continue
+                else:
+                    return False
             return True
-        else :
-            return False        
+        
