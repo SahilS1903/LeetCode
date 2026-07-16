@@ -4,7 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        output=0
+        dict={}
         for num in nums:
-            output^=num
-        return output
+            dict[num]=dict.get(num,0)+1
+        for key,value in dict.items():
+            if value==1:
+                return key
