@@ -4,8 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        xor=0
-        for i in range(len(nums)):
-            xor^=nums[i]
-        return xor
-        
+        output=0
+        for num in nums:
+            output^=num
+        return output
