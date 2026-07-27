@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SahilS1903/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0457-circular-array-loop](https://github.com/SahilS1903/LeetCode/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/SahilS1903/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/SahilS1903/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/SahilS1903/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1044-find-common-characters](https://github.com/SahilS1903/LeetCode/tree/master/1044-find-common-characters) |
 | [1635-number-of-good-pairs](https://github.com/SahilS1903/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SahilS1903/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SahilS1903/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SahilS1903/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/SahilS1903/LeetCode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/SahilS1903/LeetCode/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/SahilS1903/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/SahilS1903/LeetCode/tree/master/1044-find-common-characters) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SahilS1903/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SahilS1903/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/SahilS1903/LeetCode/tree/master/0457-circular-array-loop) |
+| [0567-permutation-in-string](https://github.com/SahilS1903/LeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SahilS1903/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/SahilS1903/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SahilS1903/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SahilS1903/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/SahilS1903/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SahilS1903/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SahilS1903/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/SahilS1903/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SahilS1903/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Stack
